@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+
+!.config/gdb/
+!.config/git
+
+!.bashrc
+!.clang_format
+!.profile
+!README.md
