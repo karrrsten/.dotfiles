@@ -1,0 +1,7 @@
+[core]
+	editor = code --wait
+[user]
+	name = Ben
+	email = benkarstens@web.de
+[init]
+	defaultBranch = main
